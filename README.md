@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Leo Koki Shashiki
 
-**💼 Data Analyst | Databricks Certified Data Engineer Associate**
+**💼 Data Analyst | [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/9e278cb2-aa2a-4e29-88b9-4e3c8a65eef7)**
 
 I'm a data-driven professional passionate about turning complex information into actionable insights that drive measurable business results.  
 With over **5 years of experience** in analytics and data engineering, I’ve worked on projects that blend technical precision, analytical reasoning, and business impact.
@@ -44,7 +44,7 @@ I’m recognized for combining technical depth with a strategic mindset to deliv
 
 🎓 **MBA in Data Science** – Sirius Education *(2023–2024)*  
 🎓 **B.Sc. Automation and Control Engineering** – FEI University *(2015–2020)*  
-📜 **Databricks Certified Data Engineer Associate** – Databricks Academy *(2026)*  
+📜 **[Databricks Certified Data Engineer Associate](https://credentials.databricks.com/9e278cb2-aa2a-4e29-88b9-4e3c8a65eef7)** – Databricks Academy *(2026)*  
 
 ---
 
