@@ -28,23 +28,27 @@ I’m recognized for combining technical depth with a strategic mindset to deliv
 - Developed the **AplicAut alert** system in Python and AWS Glue, reducing detection time from **30 days to 2 days**.  
 - Created predictive models using **AWS Sagemaker** to forecast client credit behavior.
 
+### **Data Tutor — DNC School** *(Sep 2022 – Oct 2022)*  
+- Mentored students in **Python, Power BI, and Excel**, helping them develop real-world analytical skills.  
+- Recognized for clear explanations and engaging teaching methods.
+
 ### **Data Engineer — Itaú Unibank** *(Aug 2020 – Sep 2022)*  
 - Supported Itaú’s large-scale migration to AWS, ensuring reliability and scalability.  
 - Designed and optimized **logical and physical data models**, promoting data consistency.  
 - Built ETL pipelines with **Python, SQL, Hive, and Alteryx**, improving performance and automation.  
 - Honored in **PRAD 2022** for resolving high-impact data issues and accelerating stalled projects.
 
-### **Data Tutor — DNC School** *(Sep 2022 – Oct 2022)*  
-- Mentored students in **Python, Power BI, and Excel**, helping them develop real-world analytical skills.  
-- Recognized for clear explanations and engaging teaching methods.
-
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 🎓 **MBA in Data Science** – Sirius Education *(2023–2024)*  
 🎓 **B.Sc. Automation and Control Engineering** – FEI University *(2015–2020)*  
-📜 **[Databricks Certified Data Engineer Associate](https://credentials.databricks.com/9e278cb2-aa2a-4e29-88b9-4e3c8a65eef7)** – Databricks Academy *(2026)*  
+
+## 📜 Certifications
+
+ **[Databricks Certified Data Engineer Associate](https://credentials.databricks.com/9e278cb2-aa2a-4e29-88b9-4e3c8a65eef7)** – Databricks Academy *(jan/2026)*  
+ **[Exchange Course Advanced](https://drive.google.com/file/d/1sx-J7mrK2OdgqvlQt3_xDHcSXmqdJKGM/view)** - ILAC Toronto *(nov/2025)*
 
 ---
 
